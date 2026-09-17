@@ -5,7 +5,7 @@ des applications métier qui intègrent l'intelligence artificielle.
 
 ### 🚀 Projets à la une
 - **[Détection aérienne YOLO](https://github.com/Bastienbretenet/alyra-projet/tree/main/bloc-05)** : détection d'objets sur imagerie aérienne, API FastAPI dockerisée · [Démo live](https://pool-finder.alyra.bastienbretenet.fr/)
-- **[RAG Project](https://github.com/Bastienbretenet/rag-project-v1)** : assistant documentaire from scratch
+- **[RAG Project](https://github.com/Bastienbretenet/rag-project-v1)** : assistant documentaire from scratch [Démo live](https://rag-1.app.bastienbretenet.fr/)
 - **[Projet Alyra](https://github.com/Bastienbretenet/alyra-projet/tree/main/bloc-03)** : projet machine learning Alyra
 
 ### 🛠️ Stack
